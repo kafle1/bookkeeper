@@ -1,4 +1,4 @@
-Project Name: Niraj Books (Books App)
+Project Name: Niraj Books (Books Keeper App)
 
 Technology Used: HTML, CSS, JavaScript(Vanilla, React JS), Database (Localstorage)
 
